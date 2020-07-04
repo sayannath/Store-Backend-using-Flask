@@ -25,6 +25,17 @@ Testing this is as simple as it gets. Follow this steps:
      ```
 5. Visit the localhost to see it in action
 
+## Screenshots
+<img src="Screenshots/1.png" />
+<img src="Screenshots/2.png" />
+<img src="Screenshots/3.png" />
+<img src="Screenshots/4.png" />
+<img src="Screenshots/5.png" />
+<img src="Screenshots/6.png" />
+<img src="Screenshots/7.png" />
+<img src="Screenshots/8.png" />
+
+
 ## Pull Request
 
 Pull Requests are welcome. Please follow these rules for the ease of understanding:
